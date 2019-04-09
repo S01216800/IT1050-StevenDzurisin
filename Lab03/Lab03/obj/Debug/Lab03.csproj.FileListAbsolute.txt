@@ -1,0 +1,7 @@
+C:\Users\sjd71\source\repos\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\sjd71\source\repos\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\sjd71\source\repos\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\sjd71\source\repos\Lab03\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\sjd71\source\repos\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\sjd71\source\repos\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\sjd71\source\repos\Lab03\Lab03\obj\Debug\Lab03.pdb
